@@ -147,3 +147,4 @@ function mouseDragged(){
 function mouseReleased(){
   slingShot.fly();
 }
+//changed
